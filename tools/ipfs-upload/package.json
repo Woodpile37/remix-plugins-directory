@@ -15,7 +15,7 @@
     "ipfs-http-client": "^35.1.0",
     "is-base64": "^1.1.0",
     "is-url": "^1.2.4",
-    "semver": "^6.3.0",
+    "semver": "^7.5.4",
     "signale": "^1.4.0"
   }
 }
