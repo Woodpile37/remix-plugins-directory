@@ -9,8 +9,8 @@
   "author": "Remix team",
   "license": "MIT",
   "dependencies": {
-    "form-data": "^4.0.0",
-    "commander": "^3.0.2",
+    "form-data": "^2.5.1",
+    "commander": "^11.0.0",
     "inquirer": "^1.0.0",
     "ipfs-http-client": "^60.0.1",
     "is-base64": "^1.0.0",
